@@ -1,0 +1,61 @@
+body{ 
+		font-family:arial;
+}
+
+.titles {
+		font-family: 'Lobster', cursive;
+  			display:flex;
+				justify-content:space-evenly;}
+
+
+.nav{
+		display:flex;
+    		justify-content:space-evenly;
+   		 		background-color:#f1faee;
+}
+
+a{
+		padding:10px;
+  			  color:#1d3557;
+   			 text-decoration:none;
+}
+
+h2{
+		color:#153BE5;
+}
+
+p{
+		padding:20px;
+    		width:256px;
+}
+
+p:hover{
+		background-color: green;
+}
+
+.text1{
+		padding:20px;
+}
+
+  .kangaroo:hover{
+		background-color:yellow;
+}
+
+.info1{
+display:flex;
+    text-align:center;
+}
+
+.bear:hover{
+    background-color:#7FDBFF;
+}
+
+.footer{
+    display:flex;
+       justify-content:space-around;
+       		 border:20px;
+   				 border-color:#125D6E;
+  					  border-style:outset;
+   							 padding:40px;
+    
+}
